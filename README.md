@@ -42,4 +42,3 @@ Screenshot
 
 Report Issues/Bugs
 ------------------
-[Bugs](https://github.com/uuf6429/nice_r/issues)
