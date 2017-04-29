@@ -40,5 +40,8 @@ Screenshot
 
 ![Screenshot](https://github.com/0way/nice_r/blob/master/color.png)
 
+![Screenshot](https://github.com/0way/nice_r/blob/master/demo%202.png)
+
+
 Report Issues/Bugs
 ------------------
