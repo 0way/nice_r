@@ -38,7 +38,7 @@ The following example shows how one prints out PHP's `$GLOBALS` variable.
 Screenshot
 ----------
 
-![Screenshot](http://i.imgur.com/zOTQT9W.png)
+![Screenshot](https://github.com/0way/nice_r/blob/master/color.png)
 
 Report Issues/Bugs
 ------------------
